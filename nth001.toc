@@ -1,0 +1,5 @@
+\vspace {-\cftbeforepartskip }
+\babel@toc {swedish}{}\relax 
+\contentsline {chapter}{\numberline {1}{Den vetenskapliga revolutionen}}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{Akademiskt skrivande}}{7}{chapter.2}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

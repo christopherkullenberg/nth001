@@ -13,9 +13,9 @@
 \usepackage[style=apa,authoryear,backend=biber,natbib=true]{biblatex}
 \usepackage{graphicx}
 
-\usepackage{titlesec}
-\titlespacing*\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt} % storlek på padding efter \section
-\titlespacing*\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+%\usepackage{titlesec}
+%\titlespacing*\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt} % storlek på padding efter \section
+%\titlespacing*\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 
 %\usepackage{polyglossia}
 %\setmainlanguage{italian}
@@ -35,7 +35,7 @@
 
 %referenser
 \graphicspath{ {/home/anon/Dropbox/nth001/images/} }
-\addbibresource{bibliography.bib}
+\addbibresource{/home/anon/Dropbox/klassiskmodern/bibliography.bib}
 
 % datum och tid i footer och numrering
 \fancyhf{}
@@ -47,13 +47,14 @@
 
 \begin{document}
 \booktitle{\begin{center}
+\thispagestyle{empty}
 \begin{LARGE}
 Teoretiska och historiska perspektiv på naturvetenskap\\
 
 \end{LARGE}
 
 \bigskip
-Läsinstruktion och akademiskt skrivande
+Läsguide och akademiskt skrivande
 
 \bigskip
 \bigskip
@@ -72,13 +73,14 @@ Läsinstruktion och akademiskt skrivande
 
 \noindent \href{https://github.com/christopherkullenberg/nth001}{https://github.com/christopherkullenberg/nth001}
 
-\noindent License: GPLV3
+\noindent Licens: GPLV3
 
 %	\pagestyle{scrheadings}
 %	\manualmark
 %	\markboth{\spacedlowsmallcaps{\contentsname}}{\spacedlowsmallcaps{\contentsname}}
 
 	\tableofcontents
+	\thispagestyle{empty}
 
 %	\automark[section]{chapter}
 %	\renewcommand{\chaptermark}[1]{\markboth{\spacedlowsmallcaps{#1}}{\spacedlowsmallcaps{#1}}}
@@ -88,7 +90,28 @@ Läsinstruktion och akademiskt skrivande
     %\cleardoublepage\part{Epistemologi}
 
 
-    \chapter{Den vetenskapliga revolutionen}
+\part{Läsguide}
+
+    \chapter{Vetenskapsfilosofi}
+		\pagenumbering{arabic} 
+
+
+
+
+
+     \chapter{Vetenskapshistoria}
+     
+     \chapter{Vetenskapssociologi}
+
+     \chapter{Teknovetenskaperna}
+
+     \chapter{Genus och vetenskap}
+
+     \chapter{Forskningsetik}
+     
+     \chapter{Forskningspolitik}
+                                      
+
 
 
 %	\include{multiToC}
@@ -100,9 +123,19 @@ Läsinstruktion och akademiskt skrivande
  %   \section{A Section}
   %  \lipsum[1]
 
+\part{Akademiskt skrivande}
 
 
-    \chapter{Akademiskt skrivande}
+    \chapter{Referenser och röstseparering}
+    
+    \chapter{Röd tråd och stringens}
+        
+    \chapter{Vetenskapligt språk}
+            
+    \chapter{Revisioner och redigering}
+    
+    
+    
 
 \printbibliography
 \end{document}

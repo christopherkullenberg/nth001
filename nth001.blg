@@ -1,0 +1,16 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'nth001.blg'
+[51] biber:340> INFO - === Sat Oct 15, 2022, 14:58:49
+[61] Biber.pm:418> INFO - Reading 'nth001.bcf'
+[115] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[126] Biber.pm:4383> INFO - Processing section 0
+[136] Biber.pm:4574> INFO - Looking for bibtex file '/home/anon/Dropbox/klassiskmodern/bibliography.bib' for section 0
+[163] bibtex.pm:1713> INFO - LaTeX decoding ...
+[710] bibtex.pm:1518> INFO - Found BibTeX data source '/home/anon/Dropbox/klassiskmodern/bibliography.bib'
+[766] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[766] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[766] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'sv-SE'
+[768] bbl.pm:654> INFO - Writing 'nth001.bbl' with encoding 'UTF-8'
+[768] bbl.pm:757> INFO - Output to nth001.bbl
+[769] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'broersmaSocialMediaBeat2012' and 'broersmaSOCIALMEDIABEAT2012' in file '/home/anon/Dropbox/klassiskmodern/bibliography.bib'
+[769] Biber.pm:132> INFO - WARNINGS: 1

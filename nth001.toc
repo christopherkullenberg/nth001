@@ -1,5 +1,13 @@
 \vspace {-\cftbeforepartskip }
 \babel@toc {swedish}{}\relax 
-\contentsline {chapter}{\numberline {1}{Den vetenskapliga revolutionen}}{5}{chapter.1}%
-\contentsline {chapter}{\numberline {2}{Akademiskt skrivande}}{7}{chapter.2}%
+\contentsline {part}{\numberline {i}{Historiska och sociala perspektiv på naturvetenskap}}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}{Vetenskapsfilosofi}}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{Vetenskapshistoria}}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}{Vetenskapssociologi}}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}{Teknovetenskaperna}}{7}{chapter.4}%
+\contentsline {chapter}{\numberline {5}{Genus och vetenskap}}{9}{chapter.5}%
+\contentsline {chapter}{\numberline {6}{Forskningsetik}}{11}{chapter.6}%
+\contentsline {chapter}{\numberline {7}{Forskningspolitik}}{13}{chapter.7}%
+\contentsline {part}{\numberline {ii}{Akademiskt skrivande}}{15}{part.2}%
+\contentsline {chapter}{\numberline {8}{Referenser och röstseparering}}{17}{chapter.8}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
